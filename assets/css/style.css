@@ -5,3 +5,31 @@ body{
     letter-spacing: .03em;
     line-height: 1.7em;
 }
+.jumbotron{
+    color: rgba(245, 179, 13, 0.945);
+}
+#logo{
+    padding-right: 10px;
+    border-radius: 5px;
+}
+#logo1{
+    padding-top: 15%;
+}
+.btn{
+    background-color:#3b46e0;
+    color:white;
+}
+hr{
+    background-color:#3b46e0;
+    height: 1px;
+    margin-left: 2px;
+    width:inherit;
+}
+button{
+    color: #ffffff;
+}
+.ser{
+    background-color: rgba(252, 249, 249, 0.877);
+    margin-top: 0px;
+    padding-top: 0%;
+}
